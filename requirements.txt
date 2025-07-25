@@ -2,3 +2,5 @@ instructor[litellm]==1.7.2
 boto3==1.36.2
 pydantic-settings==2.7.1
 litellm==1.59.0
+pypdf==5.8.0
+requests==2.32.3
